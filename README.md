@@ -5,7 +5,7 @@
 ## 📌 Overview
 This is a fully functional **eCommerce website** built using the **MERN (MongoDB, Express.js, React, Node.js) stack**. It includes **client and admin pages** with **secure password encryption**.
 
-Created by following a YouTube tutorial:[Watch Here](https://youtu.be/_4CPp670fK4?si=aZ-cjMgyiELx7KHH)
+Created by following a YouTube tutorial
 
 ## 🚀 Features
 - **User Authentication** (JWT & bcrypt encryption)
